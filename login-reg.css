@@ -1,0 +1,115 @@
+/*<!-------Account--------->*/
+
+.account{
+   
+    background: radial-gradient(#fff,#ffd6d6);
+    height: 700px;
+}
+
+.acc-img img{
+
+   height: 400px;
+   margin-left: 290px;
+   margin-top: 150px;
+}
+
+.acc-form{
+   
+    box-shadow: 0 0 20px 0px rgb(128, 126, 126);
+    height: 400px;
+    width: 300px;
+    text-align: center;
+    position: relative;
+    background: #fff;
+    left: 800px;
+    bottom: 400px;
+}
+
+
+
+.form-btn span{
+    margin-left: 80px;
+    top: 20px;    
+    position: relative;
+    left: -45px;
+    font-size: 20px;
+}
+
+
+.acc-form form{
+    height: 200px;
+    width: 300px;
+    position: absolute;
+    top: 100px;
+  
+
+}
+
+.acc-form input{
+    
+    height: 25px;
+    width: 90%;
+    border: 1px solid #ccc;
+    margin-top: 18px;
+}
+
+.acc-form button{
+    width: 200px;
+    height:28px;
+    cursor: pointer;
+    outline: none;
+}
+
+
+
+#indicator{
+    width: 100px;
+   background:  #ff523b;
+   border: none;
+   height: 3px;
+   margin-top: 70px;
+   transform: translatex(95px);
+}
+
+#login-form a{
+   display: inline-block;
+   color: white;
+    text-decoration: none;
+    font-size: 19px;
+}
+
+#option a{
+    color: blue;
+    margin-left: 20px;
+    display: inline-block;
+}
+
+#option a:hover{
+    color: #ff523b;
+    text-decoration: underline;
+}
+
+#login-form button {
+    color: white;
+    margin-top: 25px;
+}
+
+#register-form p,a{
+    font-size: 18px;
+    text-decoration: none;
+    margin-left: 7px;
+    
+}
+
+#register-form button{
+    text-decoration: none;
+   color:white;
+}
+
+#register-form button:hover{
+    width:170px ;
+    height:25px;
+    color: white;
+    font-size: 15px;
+
+}

@@ -1,0 +1,50 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+h1{
+    text-align: center;
+    color: rgb(2, 2, 62);
+}
+
+.heading p{
+  font-size: 30px;
+  color: rgb(6, 6, 135);
+}
+
+.heading pre{
+    font-size: 20px;
+    line-height: 25px;
+}
+
+.about{
+    position: relative;
+    left: 800px;
+}
+
+.about img{
+    width: 80px;
+    height: 80px;
+    border-radius: 200%;
+    position: relative;
+    top: 80px;
+}
+
+.about pre{
+    position: relative;
+    left: 100px;
+    font-size: 20px;
+    bottom: 20px;
+}
+
+span{
+    font-size: 25px;
+    color: rgb(6, 6, 135);
+}
+
+#details{
+    font-size: 20px;
+    margin-left: 60px;
+}

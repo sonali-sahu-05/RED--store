@@ -1,0 +1,81 @@
+.map iframe{
+    width: 1310px;
+    box-shadow: 0px 0px 10px 0px black;
+    margin: 0px 20px;
+}
+
+h2{
+    text-align: center;
+    color: rgb(4, 112, 6);
+    margin-top: 20px;
+    margin-bottom: 20px;
+    
+}
+
+.feedback
+{ margin-left: 430px;
+    margin-top: 50px;
+  height:600px;
+  width: 500px;
+  box-shadow: 0px 0px 10px 0px blue;
+  text-align: center;
+}
+
+.inputs input{
+    top: 15px;
+    margin-top: 10px;
+    display: block;
+    align-items: center;
+    position: relative;
+    margin-top: 50px;
+    left: 133px;
+    height: 28px;
+    width: 230px;
+    border: 0px solid rgb(18, 153, 220) ;
+    box-shadow: 0 0 10px 0   rgb(18, 153, 220);
+    border-radius: 7px;
+}
+
+.inputs input:hover{
+    width:215px ;
+    height:24px ;
+}
+
+.message{
+    position: relative;
+    top: 100px;
+}
+
+.message textarea{
+    
+    height: 200px;
+    width: 300px;
+    border: 0px solid  rgb(18, 153, 220);
+    box-shadow: 0 0 10px 0   rgb(18, 153, 220);
+    
+}
+
+.message textarea:hover{
+    height: 185px;
+    width: 290px;
+}
+
+
+button{
+    position: relative;
+    top: 150px;
+    width: 130px;
+    height: 25px;
+    color: white;
+    background: rgb(0, 166, 255);
+    border-radius: 8px;
+    border:0px solid  rgb(18, 153, 220);
+    box-shadow: 0 0 10px 0   rgb(18, 153, 220);
+}
+
+button:hover{
+    height: 22px;
+    width: 120px;
+    
+}
+
